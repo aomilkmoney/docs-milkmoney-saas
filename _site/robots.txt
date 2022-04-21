@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: aomilkmoney.github.io/docs-milkmoney-saas/sitemap.xml
