@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Calendar
+  link: /calendar.html
+- name: Campaign
+  link: /campaign.html
+- name: Proposal
+  link: /proposal.html
+- name: Blog
+  link: /blog.html
+- name: Staff
+  link: /staff.html
